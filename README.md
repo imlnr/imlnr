@@ -1,6 +1,12 @@
 <h1 align="center">Hi There 👋, I'm M Laxminarayan Reddy</h1>
 <h3 align="center">Fullstack Web Developer</h3>
-
+<h6>Passionate and self-motivated aspiring full-stack
+developer. Specialization in MERN stack with a keen
+interest in learning and working with new technology.
+Looking forward to working with new technologies and
+solving problems with a team. Love to work on
+different challenging projects.
+</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imlnr&label=Profile%20views&color=0e75b6&style=flat" alt="imlnr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imlnr" alt="imlnr" /></a> </p>
