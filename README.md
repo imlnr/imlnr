@@ -1,4 +1,6 @@
-<h1 align="center">Hi There 👋, I'm M Laxminarayan Reddy</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+M+Laxminarayan+Redddy!;" />
+</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 <h6>Passionate and self-motivated aspiring full-stack
 developer. Specialization in MERN stack with a keen
