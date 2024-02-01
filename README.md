@@ -34,14 +34,14 @@ different challenging projects.
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,java,mysql" />
 </div>
 <br/>
 <hr/>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="imlnr" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="imlnr" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="imlnr" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="imlnr" /></p>
 </p>
 
 
