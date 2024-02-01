@@ -7,7 +7,7 @@ Looking forward to working with new technologies and
 solving problems with a team. Love to work on
 different challenging projects.
 </h6>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imlnr&label=Profile%20views&color=0e75b6&style=flat" alt="imlnr" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=imlnr&label=Profile%20views&color=0e75b6&style=flat" alt="imlnr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imlnr" alt="imlnr" /></a> </p>
 
@@ -50,7 +50,7 @@ different challenging projects.
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imlnr&count_private=true&show_icons=true&locale=en&layout=compact" alt="imlnr" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imlnr&count_private=true&show_icons=true&locale=en" alt="imlnr" /></p>
 
