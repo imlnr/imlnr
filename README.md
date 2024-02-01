@@ -39,7 +39,7 @@ different challenging projects.
 <br/>
 <hr/>
 
-<p>
+<p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="imlnr" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="imlnr" />
 </p>
