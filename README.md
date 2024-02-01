@@ -42,8 +42,8 @@ different challenging projects.
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img height="200" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=imlnr&theme=vue-dark&hide_border=false" alt="streak stats"/>
-  <img width=390 height="200" src="https://github-readme-stats.vercel.app/api?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="readme stats" />
+  <img height="250" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=imlnr&theme=vue-dark&hide_border=false" alt="streak stats"/>
+  <img width=390 height="250" src="https://github-readme-stats.vercel.app/api?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="readme stats" />
   <br/><br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 </div>
