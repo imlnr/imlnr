@@ -36,6 +36,8 @@ different challenging projects.
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git," />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,java,mysql," /><br>
 </div>
+<br/>
+<hr/>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="imlnr" />
