@@ -52,6 +52,6 @@ different challenging projects.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="imlnr" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="imlnr" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="imlnr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imlnr&theme=vue-dark&hide_border=false" alt="imlnr" /></p>
