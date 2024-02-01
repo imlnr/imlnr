@@ -40,8 +40,8 @@ different challenging projects.
 <hr/>
 
 <p align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="imlnr" height="200"/></p>
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="imlnr" height="200"/></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="imlnr" height="200"/></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=imlnr&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="imlnr" height="200"/></p>
 </p>
 
 
