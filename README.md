@@ -23,7 +23,7 @@ different challenging projects.
 
 - 📄 Know about my experiences [resumelinklnr.com](resumelinklnr.com)
   
-- 📄 Here is my portfolio [portfolio](imlnr.github.io)
+- 📄 Here is my portfolio [portfolio](https://imlnr.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
