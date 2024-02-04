@@ -1,3 +1,6 @@
+<img src="https://miro.medium.com/v2/0*hU4zJiyVwWcM0L-w.png" width="100%" />
+
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+M+Laxminarayan+Reddy!;" />
 </h1>
