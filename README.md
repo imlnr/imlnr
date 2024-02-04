@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQHqaWSFYR8u_g/profile-displaybackgroundimage-shrink_200_800/0/1684175428432?e=2147483647&v=beta&t=Jrl2l64AVsoydE17-2mERU2x4RFEoj-gICCHovvx8S4" width="100%" />
+<img src="https://www.synergisticit.com/wp-content/uploads/2021/09/Dallas-Banner.jpg" width="100%" />
 
 
 <h1 align="center">
