@@ -16,13 +16,12 @@ different challenging projects.
 
 <p align="left"> <a href="https://twitter.com/_im_lnr" target="blank"><img src="https://img.shields.io/twitter/follow/_im_lnr?logo=twitter&style=for-the-badge" alt="_im_lnr" /></a> </p>
 
+<img align="right" src="https://github.com/imlnr/software-kalaakar-5678/assets/82680213/96624e8d-a387-41c3-ad7c-1fd6e99cdba1" width="40%"/>
 - 🌱 I’m currently learning **Node js**
 
 - 💬 Ask me about **react, js,**
 
 - 📫 How to reach me **imlnr2002@gmail.com**
-
-<img align="right" src="https://github.com/imlnr/software-kalaakar-5678/assets/82680213/96624e8d-a387-41c3-ad7c-1fd6e99cdba1"/>
 
 - 📄 Know about my experiences [resumelinklnr.com](resumelinklnr.com)
   
