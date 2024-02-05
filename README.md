@@ -22,6 +22,8 @@ different challenging projects.
 
 - 📫 How to reach me **imlnr2002@gmail.com**
 
+<img align="right" src="https://github.com/imlnr/software-kalaakar-5678/assets/82680213/96624e8d-a387-41c3-ad7c-1fd6e99cdba1"/>
+
 - 📄 Know about my experiences [resumelinklnr.com](resumelinklnr.com)
   
 - 📄 Here is my portfolio [portfolio](https://imlnr.github.io)
