@@ -1,5 +1,3 @@
-<img src="https://www.synergisticit.com/wp-content/uploads/2021/09/Dallas-Banner.jpg" width="100%" />
-
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+M+Laxminarayan+Reddy!;" />
