@@ -33,7 +33,7 @@ different challenging projects.
 <a href="https://twitter.com/_im_lnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_im_lnr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imlnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imlnr" height="30" width="40" /></a>
 <a href="https://fb.com/imlnr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imlnr7" height="30" width="40" /></a>
-<a href="https://instagram.com/im_lnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_lnr" height="30" width="40" /></a>
+<a href="https://instagram.com/imlnrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_lnr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imlnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imlnr" height="30" width="40" /></a>
 </p>
 
