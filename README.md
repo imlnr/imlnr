@@ -41,7 +41,7 @@ different challenging projects.
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,next,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,java,mysql,superbase" />
 </div>
 <br/>
 <hr/>
