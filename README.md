@@ -22,7 +22,7 @@ different challenging projects.
 
 - 💬 Ask me about **react, js,**
 
-- 📫 How to reach me **imlnr2002@gmail.com**
+- 📫 How to reach me **laxminarayanr2002@gmail.com**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Aai5xJ8vyp0NwFUxS-iaVM1xcUh2hFes/view?usp=sharing)
   
