@@ -24,7 +24,7 @@ different challenging projects.
 
 - 📫 How to reach me **imlnr2002@gmail.com**
 
-- 📄 Know about my experiences [resume](resumelinklnr.com)
+- 📄 Know about my experiences [resume]([resumelinklnr.com](https://drive.google.com/file/d/1Aai5xJ8vyp0NwFUxS-iaVM1xcUh2hFes/view?usp=sharing))
   
 - 📄 Here is my portfolio [portfolio](https://imlnr.github.io)
 
