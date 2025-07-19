@@ -18,13 +18,13 @@ different challenging projects.
 
 <p align="left"> <a href="https://twitter.com/_im_lnr" target="blank"><img src="https://img.shields.io/twitter/follow/_im_lnr?logo=twitter&style=for-the-badge" alt="_im_lnr" /></a> </p>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **FastAPI**
 
 - 💬 Ask me about **react, js,**
 
 - 📫 How to reach me **laxminarayanr2002@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Aai5xJ8vyp0NwFUxS-iaVM1xcUh2hFes/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Aai5xJ8vyp0NwFUxS-iaVM1xcUh2hFes/view)
   
 - 📄 Here is my portfolio [portfolio](https://imlnr.github.io)
 
